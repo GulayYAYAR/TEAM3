@@ -9,12 +9,13 @@ public class Array {
             System.out.print(arr[i] + "  ");
 
         System.out.println();
-        String
+
 
         System.out.println("Reversed of Array: ");
 
         for (int i = arr.length - 1; i >= 0; i--)
             System.out.print(arr[i] + "  ");
     }
-    }
-}}
+}
+
+
