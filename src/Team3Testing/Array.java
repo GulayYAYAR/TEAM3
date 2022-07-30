@@ -9,6 +9,7 @@ public class Array {
             System.out.print(arr[i] + "  ");;
 
         System.out.println();git status
+                klkj
 
 
         System.out.println("Reversed of Array: ");
