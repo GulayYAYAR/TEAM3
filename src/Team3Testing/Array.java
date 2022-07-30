@@ -8,7 +8,8 @@ public class Array {
         for (int i = 0; i < arr.length; i++)
             System.out.print(arr[i] + "  ");;
 
-        System.out.println();git status
+        System.out.println();
+
 
 
         System.out.println("Reversed of Array: ");
